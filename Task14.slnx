@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Task14_1_1/Task14_1_1.csproj" />
+  <Project Path="Task14_1_2/Task14_1_2.csproj" Id="ae59eb8d-1e59-4614-9b56-c448c3526b82" />
+  <Project Path="Task14_1_5/Task14_1_5.csproj" Id="09c9de29-4224-4c21-8fac-6d1a7b3e58f9" />
+  <Project Path="Task14_1_6/Task14_1_6.csproj" Id="2e85b32a-bbec-4433-850d-d20769f87863" />
+  <Project Path="Task14_2_1/Task14_2_1.csproj" Id="002b0b9a-c1c6-4e70-ba1a-c0358a6a2471" />
+  <Project Path="Task14_2_3/Task14_2_3.csproj" Id="fb41bd4a-e677-4cbd-ab17-91420d51834a" />
+</Solution>
