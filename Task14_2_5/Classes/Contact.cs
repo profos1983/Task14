@@ -7,6 +7,6 @@ namespace Task14_2_5.Classes
     public class Contact
     {
         public string Name { get; set; }
-        public int Phone {get; set; }
+        public long Phone {get; set; }
     }
 }

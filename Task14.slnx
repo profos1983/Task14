@@ -1,11 +1,21 @@
 <Solution>
-  <Project Path="Task14_1_1/Task14_1_1.csproj" />
-  <Project Path="Task14_1_2/Task14_1_2.csproj" Id="ae59eb8d-1e59-4614-9b56-c448c3526b82" />
-  <Project Path="Task14_1_5/Task14_1_5.csproj" Id="09c9de29-4224-4c21-8fac-6d1a7b3e58f9" />
-  <Project Path="Task14_1_6/Task14_1_6.csproj" Id="2e85b32a-bbec-4433-850d-d20769f87863" />
-  <Project Path="Task14_2_1/Task14_2_1.csproj" Id="002b0b9a-c1c6-4e70-ba1a-c0358a6a2471" />
-  <Project Path="Task14_2_10/Task14_2_10.csproj" Id="180a46e7-c829-4053-b827-4c13ed94c216" />
-  <Project Path="Task14_2_3/Task14_2_3.csproj" Id="fb41bd4a-e677-4cbd-ab17-91420d51834a" />
-  <Project Path="Task14_2_4/Task14_2_4.csproj" Id="62f5b3d6-4f9b-45ae-8579-982f57a389c0" />
-  <Project Path="Task14_2_5/Task14_2_5.csproj" Id="52d68a2f-9604-4fc3-889e-23abcc07994c" />
+  <Folder Name="/Часть 1/">
+    <Project Path="Task14_1_1/Task14_1_1.csproj" />
+    <Project Path="Task14_1_2/Task14_1_2.csproj" Id="ae59eb8d-1e59-4614-9b56-c448c3526b82" />
+    <Project Path="Task14_1_5/Task14_1_5.csproj" Id="09c9de29-4224-4c21-8fac-6d1a7b3e58f9" />
+    <Project Path="Task14_1_6/Task14_1_6.csproj" Id="2e85b32a-bbec-4433-850d-d20769f87863" />
+    <Project Path="Task14_2_1/Task14_2_1.csproj" Id="002b0b9a-c1c6-4e70-ba1a-c0358a6a2471" />
+    <Project Path="Task14_2_3/Task14_2_3.csproj" Id="fb41bd4a-e677-4cbd-ab17-91420d51834a" />
+    <Project Path="Task14_2_4/Task14_2_4.csproj" Id="62f5b3d6-4f9b-45ae-8579-982f57a389c0" />
+    <Project Path="Task14_2_5/Task14_2_5.csproj" Id="52d68a2f-9604-4fc3-889e-23abcc07994c" />
+  </Folder>
+  <Folder Name="/Часть 2/">
+    <Project Path="Task15_1_4/Task15_1_4.csproj" Id="cd1d14ec-883a-4615-a0d3-7497a1dbfcea" />
+    <Project Path="Task15_1_5/Task15_1_5.csproj" Id="4419d48b-2169-4e74-b1c2-471cd7b2e91c" />
+    <Project Path="Task15_1_6/Task15_1_6.csproj" Id="58745418-77f4-4abd-8085-a99bd9d6e857" />
+    <Project Path="Task15_2_1/Task15_2_1.csproj" Id="b89da9a0-38f3-48cc-bbad-ccb9545974a3" />
+    <Project Path="Task15_2_2/Task15_2_2.csproj" Id="fbd17e5d-75df-4193-81c9-bc03db0d8ed2" />
+    <Project Path="Task15_2_3/Task15_2_3.csproj" Id="3658dc11-95c8-45c3-bb91-06b1eea1c6fd" />
+    <Project Path="Task15_2_8/Task15_2_8.csproj" Id="c597aea9-cbd5-44e5-8e41-81e62f54f76d" />
+  </Folder>
 </Solution>
