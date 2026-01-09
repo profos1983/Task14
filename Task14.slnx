@@ -17,5 +17,9 @@
     <Project Path="Task15_2_2/Task15_2_2.csproj" Id="fbd17e5d-75df-4193-81c9-bc03db0d8ed2" />
     <Project Path="Task15_2_3/Task15_2_3.csproj" Id="3658dc11-95c8-45c3-bb91-06b1eea1c6fd" />
     <Project Path="Task15_2_8/Task15_2_8.csproj" Id="c597aea9-cbd5-44e5-8e41-81e62f54f76d" />
+    <Project Path="Task15_3_100/Task15_3_100.csproj" Id="19789b5a-8099-41e4-b582-1626ff00a2f5" />
+    <Project Path="Task15_3_101/Task15_3_101.csproj" Id="cad3f5d8-0267-4761-a8da-d37e88e67e0d" />
+    <Project Path="Task15_3_3/Task15_3_3.csproj" Id="edb8d0dc-9b16-49aa-bacd-063b81dae2a8" />
+    <Project Path="Task15_4_1/Task15_4_1.csproj" Id="66822bd1-81a9-4674-a4ae-f2ae67468b4b" />
   </Folder>
 </Solution>
