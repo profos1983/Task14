@@ -1,4 +1,5 @@
 ﻿// Список моделей
+using System.Security.Cryptography;
 using Task15_3_101.Classes;
 
 var cars = new List<Car>()
@@ -28,6 +29,14 @@ var result = from car in cars //выбирем машины
                  Manufacturer = m.Name,
                  Country = m.Country
              };
+
+var result2 = from mn in manufacturers
+              join car in cars on mn.Name equals car.Manufacturer into manufactorerGroup
+              select new
+              {
+                  Name = mn.Name,
+                  cars = manufactorerGroup.ToArray(),
+              };
 
 // выведем результаты
 foreach (var item in result)
